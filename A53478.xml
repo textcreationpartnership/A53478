@@ -1112,26 +1112,32 @@ Victuallers Hutts, Cellars and Kitchins, both which take up 20 foot of the lengt
                <p>The <hi>Ichnographie</hi> of a Company, and then of a Regi<g ref="char:EOLhyphen"/>ment of 600 Men, and so for larger or smaller Regiments so lodged, is in the following figure Number 1, and for the clearer understanding thereof the <hi>Scenographie</hi> of it is in the figure Number 3.</p>
                <p>And because Troops of Horse, and Regiments of Horse, are often lodged in Intrench'd Camps, I have thought fit to set down how the Officers of a Troop of 100 Horsemen, and the Troopers of it, and of a Regiment of those Troops, each of 100 Horse are to be lodged, which will shew how larger Horse Regiments are to be Incamped.</p>
                <pb facs="tcp:60444:53"/>
-               <figure>
-                  <head>The Ichnographie of a Reg<hi rend="sup">t</hi> of six Companys Consisting every one 100 men, in their Lodgments fig first</head>
-                  <p>ABON the Lodgem<hi rend="sup">t</hi> of the intire Regem<hi rend="sup">t.</hi> of 600 men. A g b C one of y<hi rend="sup">e</hi> Cap<hi rend="sup">ns.</hi> Lodgm<hi rend="sup">ts.</hi> a d b <gap reason="illegible" resp="#APEX" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> the files of hutts for y<hi rend="sup">e</hi> Cap<hi rend="sup">ns</hi> Company w<hi rend="sup">th.</hi> the Street between them X the 20 foot broad Street between the Cap<hi rend="sup">tns.</hi> Lodgem<hi rend="sup">ts</hi> and the first files of the hutts of the Sold<hi rend="sup">rs</hi> Y the 20 foot Street between the Sold<hi rend="sup">rs.</hi> hutts and the Suttlers B D i k the 20 foot for the Victuallers and Suttlers hutts and Kitchins Z the Colenells Lodgem<hi rend="sup">ts</hi> Z Z the Intervall between the 2 divisions of the Regim<hi rend="sup">t.</hi> in w<hi rend="sup">ch.</hi> first 100 foot thereof w<hi rend="sup">ch.</hi> fronts towar<gap reason="illegible" resp="#APEX" extent="1+ letters">
-                        <desc>•…</desc>
-                     </gap> the Colon<hi rend="sup">lls.</hi> Lodgem<hi rend="sup">t</hi> is the L<hi rend="sup">t</hi> Colon<hi rend="sup">ll.</hi> addiconall Lodgem<hi rend="sup">t</hi> w<hi rend="sup">th.</hi> the staff officers of the Reg<hi rend="sup">t.</hi> and the last 100 foot thereof for the Carriages and baggage of the Regim<hi rend="sup">t.</hi>
-                  </p>
-                  <p>
-                     <pb facs="tcp:60444:54"/>
+               <p>
+                  <pb facs="tcp:60444:54"/>
+                  <figure>
+                     <head>The Ichnographie of a Reg<hi rend="sup">t</hi> of six Companys Consisting every one 100 men, in their Lodgments fig first</head>
+                     <p>ABON the Lodgem<hi rend="sup">t</hi> of the intire Regem<hi rend="sup">t.</hi> of 600 men. A g b C one of y<hi rend="sup">e</hi> Cap<hi rend="sup">ns.</hi> Lodgm<hi rend="sup">ts.</hi> a d b <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the files of hutts for y<hi rend="sup">e</hi> Cap<hi rend="sup">ns</hi> Company w<hi rend="sup">th.</hi> the Street between them X the 20 foot broad Street between the Cap<hi rend="sup">tns.</hi> Lodgem<hi rend="sup">ts</hi> and the first files of the hutts of the Sold<hi rend="sup">rs</hi> Y the 20 foot Street between the Sold<hi rend="sup">rs.</hi> hutts and the Suttlers B D i k the 20 foot for the Victuallers and Suttlers hutts and Kitchins Z the Colenells Lodgem<hi rend="sup">ts</hi> Z Z the Intervall between the 2 divisions of the Regim<hi rend="sup">t.</hi> in w<hi rend="sup">ch.</hi> first 100 foot thereof w<hi rend="sup">ch.</hi> fronts towar<gap reason="illegible" resp="#APEX" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> the Colon<hi rend="sup">lls.</hi> Lodgem<hi rend="sup">t</hi> is the L<hi rend="sup">t</hi> Colon<hi rend="sup">ll.</hi> addiconall Lodgem<hi rend="sup">t</hi> w<hi rend="sup">th.</hi> the staff officers of the Reg<hi rend="sup">t.</hi> and the last 100 foot thereof for the Carriages and baggage of the Regim<hi rend="sup">t.</hi>
+                     </p>
+                     <p>
+                        <pb facs="tcp:60444:54"/>
 Place this foll: go</p>
-               </figure>
-               <figure>
-                  <head>the Scenographie of a Regiment of foote Consistin<gap reason="illegible" resp="#APEX" extent="1+ letters">
-                        <desc>•…</desc>
-                     </gap> of Six Companies every one of 100 men. fig: 2</head>
-                  <p>
-                     <pb facs="tcp:60444:55"/>
+                  </figure>
+               </p>
+               <p>
+                  <pb facs="tcp:60444:55"/>
+                  <figure>
+                     <head>the Scenographie of a Regiment of foote Consistin<gap reason="illegible" resp="#APEX" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> of Six Companies every one of 100 men. fig: 2</head>
+                     <p>
+                        <pb facs="tcp:60444:55"/>
 Place this foll: go</p>
-               </figure>
+                  </figure>
+               </p>
                <pb facs="tcp:60444:56"/>
                <p>
                   <pb n="91" facs="tcp:60444:56"/>
@@ -1156,40 +1162,46 @@ Ten foot of the breadth of the 25 foot on each hand of the Troopers Street, and 
                <p>This may be the manner of Lodging a Troop in an Intrenched Camp.</p>
                <p>And then the like measures and methods may be obser<g ref="char:EOLhyphen"/>ved for the Lodgment of a Regiment of Horse consisting of three Troops, or more, as has been mentioned for a Re<g ref="char:EOLhyphen"/>giment of ten Companies, or more, or less, which for brevi<g ref="char:EOLhyphen"/>ty I will not enumerate, but set down in the Map Figure (2) the <hi>Ichnographie</hi> of a Troop of 100, and</p>
                <pb facs="tcp:60444:57"/>
-               <figure>
-                  <head>The Ichnographie of a <gap reason="illegible" resp="#APEX" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> of Three Troops in their Lodgm<hi rend="sup">ts.</hi> euery one Consis<gap reason="illegible" resp="#APEX" extent="1+ letters">
-                        <desc>•…</desc>
-                     </gap> 
-                     <gap reason="illegible" resp="#APEX" extent="1+ letters">
-                        <desc>•…</desc>
-                     </gap>f 100 Troopers with their horses fig: 3<hi rend="sup">d.</hi>
-                  </head>
-                  <p>
-                     <pb facs="tcp:60444:58"/>
+               <p>
+                  <pb facs="tcp:60444:58"/>
+                  <figure>
+                     <head>The Ichnographie of a <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of Three Troops in their Lodgm<hi rend="sup">ts.</hi> euery one Consis<gap reason="illegible" resp="#APEX" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#APEX" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>f 100 Troopers with their horses fig: 3<hi rend="sup">d.</hi>
+                     </head>
+                     <p>
+                        <pb facs="tcp:60444:58"/>
 ABEF <hi>the whole Contents of the Regim<hi rend="sup">t.</hi> of horse of 3 troops Containing in all 300 men a <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> b i the 2 files of hutts and 2 files of Stalls for horses for one troop <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <hi rend="sup">th.</hi> the Street between them</hi> X <hi>the Captains Lodgement</hi> Y <hi>the Street between the Captains Lodgem<hi rend="sup">ts.</hi> and the files of the troopers hutts and the Stalls for their horses</hi> Z <hi>the Street between the files of the troopers hutts and the Victualers and Suttlers hutts and Sellars B C t n the Suttlers 20 foot for their hutts kitchins and Sellars</hi>
+                     </p>
+                     <p>
+                        <hi>Place this foll:</hi> 92</p>
+                  </figure>
+               </p>
+               <p>
+                  <pb facs="tcp:60444:59"/>
+                  <figure>
+                     <head>The Scenographie of a Regement of Horse <gap reason="illegible" resp="#APEX" extent="1 word">
                            <desc>〈◊〉</desc>
-                        </gap> b i the 2 files of hutts and 2 files of Stalls for horses for one troop <gap reason="illegible" resp="#APEX" extent="1 word">
-                           <desc>〈◊〉</desc>
-                        </gap>
-                        <hi rend="sup">th.</hi> the Street between them</hi> X <hi>the Captains Lodgement</hi> Y <hi>the Street between the Captains Lodgem<hi rend="sup">ts.</hi> and the files of the troopers hutts and the Stalls for their horses</hi> Z <hi>the Street between the files of the troopers hutts and the Victualers and Suttlers hutts and Sellars B C t n the Suttlers 20 foot for their hutts kitchins and Sellars</hi>
-                  </p>
-                  <p>
-                     <hi>Place this foll:</hi> 92</p>
-               </figure>
-               <figure>
-                  <head>The Scenographie of a Regement of Horse <gap reason="illegible" resp="#APEX" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> of three Troopes, every one of 100. fig: y<hi rend="sup">e</hi> 4<hi rend="sup">th.</hi>
-                  </head>
-                  <p>
-                     <pb facs="tcp:60444:59"/>
-                     <hi>Place this foll:</hi> 
-                     <gap reason="illegible" resp="#APEX" extent="1+ letters">
-                        <desc>•…</desc>
-                     </gap>2</p>
-               </figure>
+                        </gap> of three Troopes, every one of 100. fig: y<hi rend="sup">e</hi> 4<hi rend="sup">th.</hi>
+                     </head>
+                     <p>
+                        <pb facs="tcp:60444:59"/>
+                        <hi>Place this foll:</hi> 
+                        <gap reason="illegible" resp="#APEX" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>2</p>
+                  </figure>
+               </p>
                <pb facs="tcp:60444:60"/>
                <p>
                   <pb n="93" facs="tcp:60444:60"/>
@@ -1216,13 +1228,16 @@ whole Circumvallation) the Alarum place then would be larger, for all needs both
                <p n="4">IV. The 40 foot wide Street between the Field Officers and Captains Lodgments, and the Hutts of the Victuallers, was judged most convenient, because a 20 foot Street, the whole wideness of the Regiments Lodgment, was thought too narrow for the great resort of Wagons, Carts and Car<g ref="char:EOLhyphen"/>riages which were daily brought to furnish the Suttlers and Victuallers, and in which Street the Soldiers usually stood which were to buy their necessaries of them. In the obser<g ref="char:EOLhyphen"/>ving this newer way of Incamping, these four Inconvenien<g ref="char:EOLhyphen"/>cies seem to attend it.</p>
                <p n="1">1. The Lieutenant Colonel and the Major have thereby no further Accommodation as to their Lodgment, than the Captains, though their Baggage and Equipage is usually greater; unless the number of their Companies do make 2 or 3 Files of Hutts requisite for the Soldiers, in which case only the breadth of the Field Officers Lodgments was pro<g ref="char:EOLhyphen"/>portionately inlarged.</p>
                <pb facs="tcp:60444:62"/>
-               <figure>
-                  <head>fig: <gap reason="illegible" resp="#APEX" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap>
-                     <hi rend="sup">th.</hi>
-                  </head>
-               </figure>
+               <p>
+                  <pb facs="tcp:60444:63" rendition="simple:additions"/>
+                  <figure>
+                     <head>fig: <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <hi rend="sup">th.</hi>
+                     </head>
+                  </figure>
+               </p>
                <lg>
                   <l>A the Colon<hi rend="sup">lls</hi> Lodgem<hi rend="sup">t</hi> 68 foot broad &amp; 80 foot long</l>
                   <l>B the S<hi rend="sup">t</hi> Colon<hi rend="sup">lls</hi> Lodgem<hi rend="sup">t</hi> 40 foot broad &amp; 40 foot long</l>
@@ -1696,27 +1711,30 @@ When the whole Circumvallation of the Camp is intire<g ref="char:EOLhyphen"/>ly 
                         </gap>ontained in y<hi rend="sup">e</hi> breadth of each Lodgem<hi rend="sup">t</hi>
                      </hi>
                   </p>
-                  <figure>
-                     <head>Figure six This is the Lodgement of an Ar<gap reason="illegible" resp="#APEX" extent="1+ letters">
-                           <desc>•…</desc>
-                        </gap>y in six Lines of Lodgements the whole Consisting 7 Regimt<hi rend="sup">s.</hi> of Horse which make in all 49<gap reason="illegible" resp="#APEX" extent="1+ letters">
-                           <desc>•…</desc>
-                        </gap> 
-                        <gap reason="illegible" resp="#APEX" extent="1+ letters">
-                           <desc>•…</desc>
-                        </gap>n and 17 Reg<hi rend="sup">ts.</hi> of <gap reason="illegible" resp="#APEX" extent="1+ letters">
-                           <desc>•…</desc>
-                        </gap>oote which make in all 25400 The Generalls Lodgement <gap reason="illegible" resp="#APEX" extent="1 word">
-                           <desc>〈◊〉</desc>
-                        </gap> O<gap reason="illegible" resp="#APEX" extent="1+ letters">
-                           <desc>•…</desc>
-                        </gap>ers Gen<hi rend="sup">ll.</hi> Gen<hi rend="sup">ll</hi> of the Ordnance Traine Waggons Piazza Lodgem<hi rend="sup">ts.</hi> for strangers, for the sick <gap reason="illegible" resp="#APEX" extent="1 word">
-                           <desc>〈◊〉</desc>
-                        </gap> 
-                        <gap reason="illegible" resp="#APEX" extent="1+ letters">
-                           <desc>•…</desc>
-                        </gap>gazines and Market place</head>
-                  </figure>
+                  <p>
+                     <pb facs="tcp:60444:77"/>
+                     <figure>
+                        <head>Figure six This is the Lodgement of an Ar<gap reason="illegible" resp="#APEX" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>y in six Lines of Lodgements the whole Consisting 7 Regimt<hi rend="sup">s.</hi> of Horse which make in all 49<gap reason="illegible" resp="#APEX" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#APEX" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>n and 17 Reg<hi rend="sup">ts.</hi> of <gap reason="illegible" resp="#APEX" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>oote which make in all 25400 The Generalls Lodgement <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> O<gap reason="illegible" resp="#APEX" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ers Gen<hi rend="sup">ll.</hi> Gen<hi rend="sup">ll</hi> of the Ordnance Traine Waggons Piazza Lodgem<hi rend="sup">ts.</hi> for strangers, for the sick <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#APEX" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>gazines and Market place</head>
+                     </figure>
+                  </p>
                   <p>Place this foll: <gap reason="illegible" resp="#APEX" extent="1+ letters">
                         <desc>•…</desc>
                      </gap>20</p>
